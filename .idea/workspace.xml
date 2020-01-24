@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8ce9a19-43e5-4ef5-94cc-023057eb17bc" name="Default Changelist" comment="" />
+    <list default="true" id="e8ce9a19-43e5-4ef5-94cc-023057eb17bc" name="Default Changelist" comment="ide:">
+      <change beforePath="$PROJECT_DIR$/../cloud-file-manager/.idea/cloud-file-manager.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-file-manager/.idea/cloud-file-manager.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-file-manager/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-file-manager/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud-file-manager/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-file-manager/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,13 +14,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../cloud-file-manager/Pipfile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="242">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../cloud-file-manager/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -58,6 +67,11 @@
               <item name="cloud-file-manager" type="b2602c69:ProjectViewProjectNode" />
               <item name="cloud-file-manager" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="cloud-file-manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloud-file-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -69,6 +83,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../cloud-file-manager" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -221,12 +236,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579896485643</updated>
-      <workItem from="1579896486852" duration="1443000" />
+      <workItem from="1579896486852" duration="1842000" />
     </task>
+    <task id="LOCAL-00001" summary="ide: default settings">
+      <created>1579898034293</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579898034293</updated>
+    </task>
+    <task id="LOCAL-00002" summary="pip: default pipfile">
+      <created>1579898067905</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579898067905</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1443000" />
+    <option name="totallyTimeSpent" value="1842000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -238,6 +268,7 @@
       <window_info anchor="bottom" id="Database Changes" />
       <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.32982087" />
       <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.32982087" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -285,6 +316,11 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ide: default settings" />
+    <MESSAGE value="pip: default pipfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="pip: default pipfile" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../cloud-file-manager/application/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -292,9 +328,12 @@
     <entry file="file://$PROJECT_DIR$/../cloud-file-manager/Pipfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cloud-file-manager/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

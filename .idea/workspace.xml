@@ -2,63 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8ce9a19-43e5-4ef5-94cc-023057eb17bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../cloud-file-manager/application/app/framework/errors/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cloud-file-manager/application/app/framework/errors/errors.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cloud-file-manager/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-file-manager/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cloud-file-manager/application/app/framework/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-file-manager/application/app/framework/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cloud-file-manager/application/tests/tests_suite/unit/test_file_creation.py" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-file-manager/application/tests/tests_suite/unit/test_file_creation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/rSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/app/domain/value_objects/file_type.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/app/domain/value_objects/file_type.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/tests/tests_suite/unit/test_file_creation.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/tests/tests_suite/unit/test_file_creation.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../cloud-file-manager/application/tests/tests_suite/unit/test_file_creation.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../cloud-file-manager/application/app/framework/errors/errors.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../cloud-file-manager/application/app/domain/entities/file.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="e#0#55#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../cloud-file-manager/application/app/framework/utils.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="43" selection-start-column="43" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -73,84 +26,28 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../cloud-file-manager" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/../cloud-file-manager/Pipfile" />
-        <option value="$PROJECT_DIR$/../cloud-file-manager/application/tests/test_file_submition.py" />
-        <option value="$PROJECT_DIR$/../cloud-file-manager/application/tests/tests_suite/test_adding_file.py" />
-        <option value="$PROJECT_DIR$/../cloud-file-manager/application/tests/tests_suite/unit/test_adding_file.py" />
-        <option value="$PROJECT_DIR$/../cloud-file-manager/application/app/framework/utils.py" />
-        <option value="$PROJECT_DIR$/../cloud-file-manager/application/app/framework/errors/errors.py" />
-        <option value="$PROJECT_DIR$/../cloud-file-manager/application/app/domain/entities/file.py" />
-        <option value="$PROJECT_DIR$/../cloud-file-manager/application/tests/tests_suite/unit/test_file_creation.py" />
-      </list>
-    </option>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
-  </component>
+  <component name="ProjectId" id="1WtF4B0kDurPREBUxkQapDQHKNj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="cloud-file-manager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cloud-file-manager" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cloud-file-manager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cloud-file-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cloud-file-manager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cloud-file-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cloud-file-manager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cloud-file-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cloud-file-manager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cloud-file-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="tests_suite" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cloud-file-manager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cloud-file-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="tests_suite" type="462c0819:PsiDirectoryNode" />
-              <item name="unit" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cloud-file-manager/application/app/framework/utils.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.project" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.r.configuration.RActiveInterpreterProjectConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -160,39 +57,7 @@
       <recent name="C:\Users\tomas\py\cloud-file-manager\application\tests\tests_suite" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python tests.Unittests in test_file_creation.py">
-    <configuration default="true" type="DjangoTestsConfigurationType">
-      <module name="cloud-file-manager" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="TARGET" value="" />
-      <option name="SETTINGS_FILE" value="" />
-      <option name="CUSTOM_SETTINGS" value="false" />
-      <option name="USE_OPTIONS" value="false" />
-      <option name="OPTIONS" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Unittests for test_file_creation.TestFileCreation">
     <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
       <module name="cloud-file-manager" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -206,94 +71,12 @@
       <option name="ADDITIONAL_ARGS" value="" />
       <method v="2" />
     </configuration>
-    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
-      <module name="cloud-file-manager" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="ADDITIONAL_ARGS" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <module name="cloud-file-manager" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="utils" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="cloud-file-manager" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../cloud-file-manager/application/app/framework" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../cloud-file-manager/application/app/framework/utils.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="Python.FlaskServer">
-      <module name="cloud-file-manager" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="launchJavascriptDebuger" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <module name="cloud-file-manager" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <method v="2" />
-    </configuration>
     <configuration name="Unittests for test_file_creation.TestFileCreation" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="cloud-file-manager" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../cloud-file-manager/application/tests/tests_suite/unit" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/application/tests/tests_suite/unit" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -308,7 +91,7 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../cloud-file-manager/application/tests/tests_suite/unit" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/application/tests/tests_suite/unit" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -318,12 +101,27 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests for test_file_creation.TestFileCreation.test_file_types" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="cloud-file-manager" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/application/tests/tests_suite/unit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_file_creation.TestFileCreation.test_file_types&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unittests for test_file_creation.TestFileCreation.test_incorrect_file_param_types" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="cloud-file-manager" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../cloud-file-manager/application/tests/tests_suite/unit" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/application/tests/tests_suite/unit" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -333,77 +131,28 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for tests.tests_suite.unit.test_file_creation.TestFileCreation" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="cloud-file-manager" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../cloud-file-manager/application/tests/tests_suite/unit" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;tests.tests_suite.unit.test_file_creation.TestFileCreation&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
     <configuration name="Unittests in test_file_creation.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="cloud-file-manager" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../cloud-file-manager/application/tests/tests_suite/unit" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/application/tests/tests_suite/unit" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/../cloud-file-manager/application/tests/tests_suite/unit/test_file_creation.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <module name="cloud-file-manager" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Unittests">
-      <module name="cloud-file-manager" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/application/tests/tests_suite/unit/test_file_creation.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests in test_file_creation.py" />
-        <item itemvalue="Python tests.Unittests for test_file_creation.TestFileCreation.test_incorrect_file_param_types" />
         <item itemvalue="Python tests.Unittests for test_file_creation.TestFileCreation" />
+        <item itemvalue="Python tests.Unittests for test_file_creation.TestFileCreation.test_file_types" />
+        <item itemvalue="Python tests.Unittests for test_file_creation.TestFileCreation.test_incorrect_file_param_types" />
+        <item itemvalue="Python tests.Unittests in test_file_creation.py" />
         <item itemvalue="Python tests.Unittests for test_file_creation.TestFileCreation.test_empty_file" />
-        <item itemvalue="Python.utils" />
       </list>
     </recent_temporary>
   </component>
@@ -417,7 +166,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579896485643</updated>
-      <workItem from="1579896486852" duration="12186000" />
+      <workItem from="1579896486852" duration="13121000" />
+      <workItem from="1579960792788" duration="2533000" />
     </task>
     <task id="LOCAL-00001" summary="ide: default settings">
       <created>1579898034293</created>
@@ -468,73 +218,15 @@
       <option name="project" value="LOCAL" />
       <updated>1579906729708</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="tests: file invalid params">
+      <created>1579908798627</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1579908798627</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="Unittests_in_test_file_creation_py - 2020.01.25 at 00h 24m 08s.xml">
-      <configuration name="Unittests in test_file_creation.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_file_creation_TestFileCreation - 2020.01.25 at 00h 24m 35s.xml">
-      <configuration name="Unittests for test_file_creation.TestFileCreation" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_file_creation_TestFileCreation_test_incorrect_file_param_types - 2020.01.25 at 00h 28m 21s.xml">
-      <configuration name="Unittests for test_file_creation.TestFileCreation.test_incorrect_file_param_types" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_file_creation_TestFileCreation - 2020.01.25 at 00h 28m 27s.xml">
-      <configuration name="Unittests for test_file_creation.TestFileCreation" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_file_creation_TestFileCreation_test_incorrect_file_param_types - 2020.01.25 at 00h 28m 41s.xml">
-      <configuration name="Unittests for test_file_creation.TestFileCreation.test_incorrect_file_param_types" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_file_creation_TestFileCreation - 2020.01.25 at 00h 30m 13s.xml">
-      <configuration name="Unittests for test_file_creation.TestFileCreation" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_file_creation_py - 2020.01.25 at 00h 30m 35s.xml">
-      <configuration name="Unittests in test_file_creation.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_file_creation_py - 2020.01.25 at 00h 31m 00s.xml">
-      <configuration name="Unittests in test_file_creation.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_file_creation_TestFileCreation_test_incorrect_file_param_types - 2020.01.25 at 00h 31m 15s.xml">
-      <configuration name="Unittests for test_file_creation.TestFileCreation.test_incorrect_file_param_types" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_file_creation_py - 2020.01.25 at 00h 32m 41s.xml">
-      <configuration name="Unittests in test_file_creation.py" configurationId="tests" />
-    </history-entry>
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12186000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18072917" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" weight="0.32889733" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Terminal" weight="0.3298479" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.5005208" side_tool="true" weight="0.32982087" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3298479" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49947917" visible="true" weight="0.2975285" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39923954" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="R Packages" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="R Graphics" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -545,20 +237,7 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
+              <option name="COLUMN_ORDER" />
             </State>
           </value>
         </entry>
@@ -573,96 +252,48 @@
     <MESSAGE value="feat: empty file and file type" />
     <MESSAGE value="feat: empty file and file type sq" />
     <MESSAGE value="tests: rename TestAddingFile to TestFileCreation" />
-    <option name="LAST_COMMIT_MESSAGE" value="tests: rename TestAddingFile to TestFileCreation" />
+    <MESSAGE value="tests: file invalid params" />
+    <option name="LAST_COMMIT_MESSAGE" value="tests: file invalid params" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1921" height="253" key="GridCell.Tab.0.bottom" timestamp="1579963892704">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1921" height="253" key="GridCell.Tab.0.bottom/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1579963892704" />
+    <state width="1921" height="253" key="GridCell.Tab.0.center" timestamp="1579963892703">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1921" height="253" key="GridCell.Tab.0.center/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1579963892703" />
+    <state width="1921" height="253" key="GridCell.Tab.0.left" timestamp="1579963892703">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1921" height="253" key="GridCell.Tab.0.left/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1579963892703" />
+    <state width="1921" height="253" key="GridCell.Tab.0.right" timestamp="1579963892703">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1921" height="253" key="GridCell.Tab.0.right/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1579963892703" />
+    <state x="461" y="168" key="SettingsEditor" timestamp="1579960814814">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="168" key="SettingsEditor/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1579960814814" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1579963773899">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1579963773899" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/cloud_file_manager$Unittests_for_test_file_creation_TestFileCreation.coverage" NAME="Unittests for test_file_creation.TestFileCreation Coverage Results" MODIFIED="1579908612895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../cloud-file-manager/application/tests/tests_suite/unit" />
-    <SUITE FILE_PATH="coverage/cloud_file_manager$Unittests_for_test_adding_file_TestAddingFile_test_empty_file.coverage" NAME="Unittests for test_adding_file.TestAddingFile.test_empty_file Coverage Results" MODIFIED="1579904861157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../cloud-file-manager/application/tests/tests_suite/unit" />
-    <SUITE FILE_PATH="coverage/cloud_file_manager$utils.coverage" NAME="utils Coverage Results" MODIFIED="1579907335564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../cloud-file-manager/application/app/framework" />
-    <SUITE FILE_PATH="coverage/cloud_file_manager$Unittests_for_test_adding_file_TestAddingFile_test_empty_file_type.coverage" NAME="Unittests for test_adding_file.TestAddingFile.test_empty_file_type Coverage Results" MODIFIED="1579904387252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../cloud-file-manager/application/tests/tests_suite/unit" />
-    <SUITE FILE_PATH="coverage/cloud_file_manager$Unittests_for_test_adding_file_TestAddingFile.coverage" NAME="Unittests for test_adding_file.TestAddingFile Coverage Results" MODIFIED="1579904866350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../cloud-file-manager/application/tests/tests_suite/unit" />
-    <SUITE FILE_PATH="coverage/cloud_file_manager$Unittests_for_test_file_creation_TestFileCreation_test_incorrect_file_param_types.coverage" NAME="Unittests for test_file_creation.TestFileCreation.test_incorrect_file_param_types Coverage Results" MODIFIED="1579908675040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../cloud-file-manager/application/tests/tests_suite/unit" />
-    <SUITE FILE_PATH="coverage/cloud_file_manager$Unittests_for_test_adding_file_TestAddingFile_test_default_file_type.coverage" NAME="Unittests for test_adding_file.TestAddingFile.test_default_file_type Coverage Results" MODIFIED="1579901880416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../cloud-file-manager/application/tests/tests_suite/unit" />
-    <SUITE FILE_PATH="coverage/cloud_file_manager$Unittests_in_tests.coverage" NAME="Unittests in tests Coverage Results" MODIFIED="1579899345679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../cloud-file-manager/application/tests" />
-    <SUITE FILE_PATH="coverage/cloud_file_manager$Unittests_for_test_adding_file_TestAddingFile_test_file_types.coverage" NAME="Unittests for test_adding_file.TestAddingFile.test_file_types Coverage Results" MODIFIED="1579904833880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../cloud-file-manager/application/tests/tests_suite/unit" />
-    <SUITE FILE_PATH="coverage/cloud_file_manager$Unittests_in_test_file_creation_py.coverage" NAME="Unittests in test_file_creation.py Coverage Results" MODIFIED="1579908760912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../cloud-file-manager/application/tests/tests_suite/unit" />
-    <SUITE FILE_PATH="coverage/cloud_file_manager$Unittests_in_test_adding_file_py.coverage" NAME="Unittests in test_adding_file.py Coverage Results" MODIFIED="1579904247765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../cloud-file-manager/application/tests/tests_suite/unit" />
-    <SUITE FILE_PATH="coverage/cloud_file_manager$Unittests_for_test_file_creation_TestFileCreation_test_empty_file.coverage" NAME="Unittests for test_file_creation.TestFileCreation.test_empty_file Coverage Results" MODIFIED="1579908110069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../cloud-file-manager/application/tests/tests_suite/unit" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../cloud-file-manager/application/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../cloud-file-manager/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../cloud-file-manager/application/tests/tests_suite/test_file_submition.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../cloud-file-manager/application/Pipfile.lock">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/cloud-file-manager-ucmjV0zA/Lib/enum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-955">
-          <caret line="524" column="8" selection-start-line="524" selection-start-column="8" selection-end-line="524" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../cloud-file-manager/application/Pipfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-1103502349/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="5577" column="6" selection-start-line="5577" selection-start-column="6" selection-end-line="5577" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="73" column="8" selection-start-line="73" selection-start-column="8" selection-end-line="73" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../cloud-file-manager/application/app/framework/utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="43" selection-start-column="43" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../cloud-file-manager/application/app/domain/entities/file.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#0#55#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../cloud-file-manager/application/app/framework/errors/errors.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../cloud-file-manager/application/tests/tests_suite/unit/test_file_creation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <SUITE FILE_PATH="coverage/cloud_file_manager$Unittests_for_test_file_creation_TestFileCreation_test_file_types.coverage" NAME="Unittests for test_file_creation.TestFileCreation.test_file_types Coverage Results" MODIFIED="1579963889131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/application/tests/tests_suite/unit" />
+    <SUITE FILE_PATH="coverage/cloud_file_manager$Unittests_in_test_adding_file_py.coverage" NAME="Unittests in test_adding_file.py Coverage Results" MODIFIED="1579904247765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/application/tests/tests_suite/unit" />
+    <SUITE FILE_PATH="coverage/cloud_file_manager$Unittests_for_test_file_creation_TestFileCreation_test_incorrect_file_param_types.coverage" NAME="Unittests for test_file_creation.TestFileCreation.test_incorrect_file_param_types Coverage Results" MODIFIED="1579909282602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/application/tests/tests_suite/unit" />
+    <SUITE FILE_PATH="coverage/cloud_file_manager$Unittests_for_test_file_creation_TestFileCreation_test_empty_file.coverage" NAME="Unittests for test_file_creation.TestFileCreation.test_empty_file Coverage Results" MODIFIED="1579908110069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/application/tests/tests_suite/unit" />
+    <SUITE FILE_PATH="coverage/cloud_file_manager$Unittests_for_test_file_creation_TestFileCreation.coverage" NAME="Unittests for test_file_creation.TestFileCreation Coverage Results" MODIFIED="1579963892692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/application/tests/tests_suite/unit" />
+    <SUITE FILE_PATH="coverage/cloud_file_manager$Unittests_for_test_adding_file_TestAddingFile_test_empty_file.coverage" NAME="Unittests for test_adding_file.TestAddingFile.test_empty_file Coverage Results" MODIFIED="1579904861157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/application/tests/tests_suite/unit" />
+    <SUITE FILE_PATH="coverage/cloud_file_manager$Unittests_for_test_adding_file_TestAddingFile_test_empty_file_type.coverage" NAME="Unittests for test_adding_file.TestAddingFile.test_empty_file_type Coverage Results" MODIFIED="1579904387252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/application/tests/tests_suite/unit" />
+    <SUITE FILE_PATH="coverage/cloud_file_manager$Unittests_for_test_adding_file_TestAddingFile.coverage" NAME="Unittests for test_adding_file.TestAddingFile Coverage Results" MODIFIED="1579904866350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/application/tests/tests_suite/unit" />
+    <SUITE FILE_PATH="coverage/cloud_file_manager$utils.coverage" NAME="utils Coverage Results" MODIFIED="1579907335564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/application/app/framework" />
+    <SUITE FILE_PATH="coverage/cloud_file_manager$Unittests_for_test_adding_file_TestAddingFile_test_file_types.coverage" NAME="Unittests for test_adding_file.TestAddingFile.test_file_types Coverage Results" MODIFIED="1579904833880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/application/tests/tests_suite/unit" />
+    <SUITE FILE_PATH="coverage/cloud_file_manager$Unittests_in_test_file_creation_py.coverage" NAME="Unittests in test_file_creation.py Coverage Results" MODIFIED="1579908760912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/application/tests/tests_suite/unit" />
+    <SUITE FILE_PATH="coverage/cloud_file_manager$Unittests_for_test_adding_file_TestAddingFile_test_default_file_type.coverage" NAME="Unittests for test_adding_file.TestAddingFile.test_default_file_type Coverage Results" MODIFIED="1579901880416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/application/tests/tests_suite/unit" />
+    <SUITE FILE_PATH="coverage/cloud_file_manager$Unittests_in_tests.coverage" NAME="Unittests in tests Coverage Results" MODIFIED="1579899345679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/application/tests" />
   </component>
 </project>

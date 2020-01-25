@@ -2,4 +2,5 @@ from enum import Enum
 
 
 class FileType(Enum):
-    EMPTY = ''
+    EMPTY = 'empty'
+    TXT = 'text'

@@ -1,28 +1,15 @@
-from abc import ABC
 from unittest import TestCase
 
-from app.application.utils import tc
-from app.domain.entities.file import File
+from app.application.interactors.file_adder import FileAdder
 from tests.sample_data.file_samples import FileSamples
+from tests.test_doubles.repositories.files_repository_spy import FilesRepositorySpy
 
 
-class FileRepositoryInterface(ABC):
-    def save(self, file: File, id_: str) -> None:
-        pass
+class TestFileAdding(TestCase, FileSamples):
+    def test_file_adding(self):
+        files_repository_spy = FilesRepositorySpy()
+        file_adder = FileAdder(repository=files_repository_spy)
 
+        file_adder.add(file=self.EMPTY_FILE)
 
-class FileAdder(object):
-    def __init__(self, repository: FileRepositoryInterface):
-        self.repository = repository
-
-    def handle(self, file: File):
-        tc(file, File)
-        self.repository.save(file=file, id_='uuid')
-
-
-# class TestFileAdding(TestCase, FileSamples):
-#     def test_file_adding(self):
-#         empty_file = File(self.EMPTY_FILE_CONTENT, self.UNKNOWN_FILE_TYPE, self.EMPTY_FILE_SIZE)
-#
-#         file_adder = FileAdder(repository=)
-#         file_adder.handle(file=empty_file)
+        self.assertEqual(files_repository_spy.file, self.EMPTY_FILE)

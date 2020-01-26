@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8ce9a19-43e5-4ef5-94cc-023057eb17bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/application/app/application/errors/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/app/domain/value_objects/file_size.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/app/domain/value_objects/file_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/tests/sample_data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/tests/tests_suite/unit/test_file_adding.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/app/domain/entities/file.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/app/domain/entities/file.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/app/framework/errors/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/app/application/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/app/framework/errors/errors.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/app/application/errors/general.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/app/framework/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/app/application/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/app/domain/value_objects/file_size.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/app/domain/value_objects/file_type.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/app/domain/value_objects/file_type.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/tests/tests_suite/unit/test_file_creation.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/tests/tests_suite/unit/test_file_creation.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,11 +22,6 @@
         <option value="Python Script" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>TestCase</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -45,14 +40,18 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/application/tests/tests_suite/unit" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tomas\py\cloud-file-manager\application\tests\tests_suite\unit" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\tomas\py\cloud-file-manager\application\app\application" />
       <recent name="C:\Users\tomas\py\cloud-file-manager\application\app\domain\enums" />
@@ -90,7 +89,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for test_file_creation.TestFileCreation.test_empty_file" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for test_file_creation.TestFileCreation.test_file" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="cloud-file-manager" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,41 +100,41 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_file_creation.TestFileCreation.test_empty_file&quot;" />
+      <option name="_new_target" value="&quot;test_file_creation.TestFileCreation.test_file&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for test_file_creation.TestFileCreation.test_file_size" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in tests" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="cloud-file-manager" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/application/tests/tests_suite/unit" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/application/tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_file_creation.TestFileCreation.test_file_size&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/application/tests&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for test_file_creation.TestFileCreation.test_file_types" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in tests_suite" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="cloud-file-manager" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/application/tests/tests_suite/unit" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/application/tests/tests_suite" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_file_creation.TestFileCreation.test_file_types&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/application/tests/tests_suite&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for test_file_creation.TestFileCreation.test_incorrect_file_param_types" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in unit" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="cloud-file-manager" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,17 +145,17 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_file_creation.TestFileCreation.test_incorrect_file_param_types&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/application/tests/tests_suite/unit&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python tests.Unittests for test_file_creation.TestFileCreation" />
-        <item itemvalue="Python tests.Unittests for test_file_creation.TestFileCreation.test_incorrect_file_param_types" />
-        <item itemvalue="Python tests.Unittests for test_file_creation.TestFileCreation.test_file_size" />
-        <item itemvalue="Python tests.Unittests for test_file_creation.TestFileCreation.test_empty_file" />
-        <item itemvalue="Python tests.Unittests for test_file_creation.TestFileCreation.test_file_types" />
+        <item itemvalue="Python tests.Unittests for test_file_creation.TestFileCreation.test_file" />
+        <item itemvalue="Python tests.Unittests in tests_suite" />
+        <item itemvalue="Python tests.Unittests in tests" />
+        <item itemvalue="Python tests.Unittests in unit" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +170,7 @@
       <option name="presentableId" value="Default" />
       <updated>1579896485643</updated>
       <workItem from="1579896486852" duration="13121000" />
-      <workItem from="1579960792788" duration="13166000" />
+      <workItem from="1579960792788" duration="23822000" />
     </task>
     <task id="LOCAL-00001" summary="ide: default settings">
       <created>1579898034293</created>
@@ -243,7 +242,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579991080192</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="feat: FileSize">
+      <created>1580044569549</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1580044569549</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -273,33 +279,54 @@
     <MESSAGE value="tests: file invalid params" />
     <MESSAGE value="refactor: FileType and TestFileCreation" />
     <MESSAGE value="feat: FileContent" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: FileContent" />
+    <MESSAGE value="feat: FileSize" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: FileSize" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="177" y="38" width="1644" height="999" key="CommitChangelistDialog2" timestamp="1579991079505">
+    <state x="690" y="288" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580053985280">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="177" y="38" width="1644" height="999" key="CommitChangelistDialog2/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1579991079505" />
-    <state width="1920" height="253" key="GridCell.Tab.0.bottom" timestamp="1580044489275">
+    <state x="690" y="288" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1580053985280" />
+    <state x="734" y="243" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1580051713675">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1920" height="253" key="GridCell.Tab.0.bottom/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1580044489275" />
-    <state width="1920" height="253" key="GridCell.Tab.0.center" timestamp="1580044489275">
+    <state x="734" y="243" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1580051713675" />
+    <state x="177" y="38" width="1644" height="999" key="CommitChangelistDialog2" timestamp="1580044568738">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1920" height="253" key="GridCell.Tab.0.center/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1580044489275" />
-    <state width="1920" height="253" key="GridCell.Tab.0.left" timestamp="1580044489275">
+    <state x="177" y="38" width="1644" height="999" key="CommitChangelistDialog2/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1580044568738" />
+    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1580051176987">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1920" height="253" key="GridCell.Tab.0.left/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1580044489275" />
-    <state width="1920" height="253" key="GridCell.Tab.0.right" timestamp="1580044489275">
+    <state x="740" y="295" key="FileChooserDialogImpl/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1580051176987" />
+    <state width="1920" height="253" key="GridCell.Tab.0.bottom" timestamp="1580065821954">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1920" height="253" key="GridCell.Tab.0.right/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1580044489275" />
+    <state width="1920" height="253" key="GridCell.Tab.0.bottom/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1580065821954" />
+    <state width="1920" height="253" key="GridCell.Tab.0.center" timestamp="1580065821954">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1920" height="253" key="GridCell.Tab.0.center/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1580065821954" />
+    <state width="1920" height="253" key="GridCell.Tab.0.left" timestamp="1580065821954">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1920" height="253" key="GridCell.Tab.0.left/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1580065821954" />
+    <state width="1920" height="253" key="GridCell.Tab.0.right" timestamp="1580065821954">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1920" height="253" key="GridCell.Tab.0.right/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1580065821954" />
     <state x="461" y="168" key="SettingsEditor" timestamp="1580039609983">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="461" y="168" key="SettingsEditor/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1580039609983" />
+    <state x="639" y="278" width="642" height="524" key="find.popup" timestamp="1580065045159">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="639" y="278" width="642" height="524" key="find.popup/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1580065045159" />
+    <state x="701" y="184" key="refactoring.ChangeSignatureDialog" timestamp="1580047746347">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="701" y="184" key="refactoring.ChangeSignatureDialog/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1580047746347" />
     <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1579963773899">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -307,18 +334,24 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/cloud_file_manager$Unittests_for_test_file_creation_TestFileCreation_test_file_types.coverage" NAME="Unittests for test_file_creation.TestFileCreation.test_file_types Coverage Results" MODIFIED="1579963889131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/application/tests/tests_suite/unit" />
+    <SUITE FILE_PATH="coverage/cloud_file_manager$Unittests_in_unit.coverage" NAME="Unittests in unit Coverage Results" MODIFIED="1580051124163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/application/tests/tests_suite/unit" />
     <SUITE FILE_PATH="coverage/cloud_file_manager$Unittests_in_test_adding_file_py.coverage" NAME="Unittests in test_adding_file.py Coverage Results" MODIFIED="1579904247765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/application/tests/tests_suite/unit" />
     <SUITE FILE_PATH="coverage/cloud_file_manager$Unittests_for_test_file_creation_TestFileCreation_test_empty_file.coverage" NAME="Unittests for test_file_creation.TestFileCreation.test_empty_file Coverage Results" MODIFIED="1579965550826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/application/tests/tests_suite/unit" />
     <SUITE FILE_PATH="coverage/cloud_file_manager$Unittests_for_test_file_creation_TestFileCreation_test_file_size.coverage" NAME="Unittests for test_file_creation.TestFileCreation.test_file_size Coverage Results" MODIFIED="1580039359205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/application/tests/tests_suite/unit" />
     <SUITE FILE_PATH="coverage/cloud_file_manager$Unittests_for_test_file_creation_TestFileCreation_test_incorrect_file_param_types.coverage" NAME="Unittests for test_file_creation.TestFileCreation.test_incorrect_file_param_types Coverage Results" MODIFIED="1580044484593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/application/tests/tests_suite/unit" />
-    <SUITE FILE_PATH="coverage/cloud_file_manager$Unittests_for_test_file_creation_TestFileCreation.coverage" NAME="Unittests for test_file_creation.TestFileCreation Coverage Results" MODIFIED="1580044489266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/application/tests/tests_suite/unit" />
+    <SUITE FILE_PATH="coverage/cloud_file_manager$Unittests_for_test_file_creation_TestFileCreation.coverage" NAME="Unittests for test_file_creation.TestFileCreation Coverage Results" MODIFIED="1580065821939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/application/tests/tests_suite/unit" />
     <SUITE FILE_PATH="coverage/cloud_file_manager$Unittests_for_test_adding_file_TestAddingFile_test_empty_file.coverage" NAME="Unittests for test_adding_file.TestAddingFile.test_empty_file Coverage Results" MODIFIED="1579904861157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/application/tests/tests_suite/unit" />
     <SUITE FILE_PATH="coverage/cloud_file_manager$Unittests_for_test_adding_file_TestAddingFile_test_empty_file_type.coverage" NAME="Unittests for test_adding_file.TestAddingFile.test_empty_file_type Coverage Results" MODIFIED="1579904387252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/application/tests/tests_suite/unit" />
+    <SUITE FILE_PATH="coverage/cloud_file_manager$Unittests_for_test_file_adding_TestFileAdding.coverage" NAME="Unittests for test_file_adding.TestFileAdding Coverage Results" MODIFIED="1580047179838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/application/tests/tests_suite/unit" />
     <SUITE FILE_PATH="coverage/cloud_file_manager$Unittests_for_test_adding_file_TestAddingFile.coverage" NAME="Unittests for test_adding_file.TestAddingFile Coverage Results" MODIFIED="1579904866350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/application/tests/tests_suite/unit" />
     <SUITE FILE_PATH="coverage/cloud_file_manager$utils.coverage" NAME="utils Coverage Results" MODIFIED="1579907335564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/application/app/framework" />
     <SUITE FILE_PATH="coverage/cloud_file_manager$Unittests_for_test_adding_file_TestAddingFile_test_file_types.coverage" NAME="Unittests for test_adding_file.TestAddingFile.test_file_types Coverage Results" MODIFIED="1579904833880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/application/tests/tests_suite/unit" />
     <SUITE FILE_PATH="coverage/cloud_file_manager$Unittests_in_test_file_creation_py.coverage" NAME="Unittests in test_file_creation.py Coverage Results" MODIFIED="1579908760912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/application/tests/tests_suite/unit" />
+    <SUITE FILE_PATH="coverage/cloud_file_manager$Unittests_in_test_file_adding_py.coverage" NAME="Unittests in test_file_adding.py Coverage Results" MODIFIED="1580051074131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/application/tests/tests_suite/unit" />
+    <SUITE FILE_PATH="coverage/cloud_file_manager$Unittests_for_test_file_creation_TestFileCreation_test_file.coverage" NAME="Unittests for test_file_creation.TestFileCreation.test_file Coverage Results" MODIFIED="1580065211790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/application/tests/tests_suite/unit" />
+    <SUITE FILE_PATH="coverage/cloud_file_manager$Unittests_in_tests_suite.coverage" NAME="Unittests in tests_suite Coverage Results" MODIFIED="1580052486177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/application/tests/tests_suite" />
     <SUITE FILE_PATH="coverage/cloud_file_manager$Unittests_for_test_adding_file_TestAddingFile_test_default_file_type.coverage" NAME="Unittests for test_adding_file.TestAddingFile.test_default_file_type Coverage Results" MODIFIED="1579901880416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/application/tests/tests_suite/unit" />
-    <SUITE FILE_PATH="coverage/cloud_file_manager$Unittests_in_tests.coverage" NAME="Unittests in tests Coverage Results" MODIFIED="1579899345679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/application/tests" />
+    <SUITE FILE_PATH="coverage/cloud_file_manager$Unittests_for_test_file_adding_TestFileAdding_test_file_adding.coverage" NAME="Unittests for test_file_adding.TestFileAdding.test_file_adding Coverage Results" MODIFIED="1580047760790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/application/tests/tests_suite/unit" />
+    <SUITE FILE_PATH="coverage/cloud_file_manager$Unittests_in_tests.coverage" NAME="Unittests in tests Coverage Results" MODIFIED="1580051158894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/application/tests" />
   </component>
 </project>

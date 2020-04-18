@@ -1,5 +1,5 @@
-from app.application.interfaces.files_repository_interface import FilesRepositoryInterface
-from app.domain.entities.file import File
+from src.application.interfaces.files_repository_interface import FilesRepositoryInterface
+from src.domain.entities.file import File
 
 
 class FilesRepositorySpy(FilesRepositoryInterface):

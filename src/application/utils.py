@@ -1,4 +1,4 @@
-from app.application.errors.general import CustomTypeError
+from src.application.errors.general import CustomTypeError
 
 
 def tc(obj, cls):

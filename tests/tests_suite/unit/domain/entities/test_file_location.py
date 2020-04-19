@@ -1,18 +1,18 @@
 from unittest import TestCase
 
-from src.domain.entities.file.location import Location, InvalidFileLocationFormat
+from src.domain.entities.file.location import Location
 from src.domain.vos.folder_name import FolderName
 
 
 class TestFileLocation(TestCase):
 
     def test_invalid_file_path__raise_exception(self):
-        self.assertRaises(InvalidFileLocationFormat, Location, '')
-        self.assertRaises(InvalidFileLocationFormat, Location, 'abc')
-        self.assertRaises(InvalidFileLocationFormat, Location, None)
-        self.assertRaises(InvalidFileLocationFormat, Location, [''])
-        self.assertRaises(InvalidFileLocationFormat, Location, ['abc'])
-        self.assertRaises(InvalidFileLocationFormat, Location, [None])
+        self.assertRaises(Location.InvalidFileLocationFormat, Location, '')
+        self.assertRaises(Location.InvalidFileLocationFormat, Location, 'abc')
+        self.assertRaises(Location.InvalidFileLocationFormat, Location, None)
+        self.assertRaises(Location.InvalidFileLocationFormat, Location, [''])
+        self.assertRaises(Location.InvalidFileLocationFormat, Location, ['abc'])
+        self.assertRaises(Location.InvalidFileLocationFormat, Location, [None])
 
     def test_root_path__success__location_value_empty_list(self):
         location = Location(LocationSamples.ROOT_LOCATION)

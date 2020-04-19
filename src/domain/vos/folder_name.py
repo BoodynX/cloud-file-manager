@@ -1,5 +1,7 @@
 import re
 
+from src.domain.exceptions import ImmutableException
+
 
 class FolderName:
     """
@@ -17,10 +19,14 @@ class FolderName:
 
     @value.setter
     def value(self, name):
+        if hasattr(self, '_value'):
+            raise ImmutableException()
         if not self.valid_pattern.match(name):
-            raise InvalidFolderName()
+            raise self.InvalidFolderName()
         self._value = name
 
+    class InvalidFolderName(Exception):
+        pass
 
-class InvalidFolderName(Exception):
-    pass
+
+

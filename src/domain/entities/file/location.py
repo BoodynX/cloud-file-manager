@@ -1,16 +1,16 @@
-import re
+from typing import List
+
+from src.domain.utils import tc
+from src.domain.vos.folder_name import FolderName
 
 
 class Location:
-    root_path = '/'
-    location_pattern = re.compile('^/(?!\s*$)[0-9a-zA-Z/ -]+[0-9a-zA-Z]$')
 
-    def __init__(self, value=str):
+    def __init__(self, value: List[FolderName]):
         self.validate_file_path(value)
         self.value = value
 
     def validate_file_path(self, value):
-        if value == self.root_path:
-            return True
-        if not self.location_pattern.match(value):
-            raise Exception()
+        tc(obj=value, type_=List)
+        for folder_name in value:
+            tc(obj=folder_name, type_=FolderName)

@@ -1,7 +1,12 @@
 from typing import Type
 
-from src.domain.exceptions.custom_type_error import CustomTypeError
-from src.domain.exceptions.type_check_parameter_error import TypeCheckParameterError
+
+class TypeCheckParameterError(Exception):
+    pass
+
+
+class CustomTypeError(TypeError):
+    pass
 
 
 def tc(obj: object, type_: Type):

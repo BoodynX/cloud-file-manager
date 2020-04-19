@@ -1,2 +1,0 @@
-class CustomTypeError(TypeError):
-    pass

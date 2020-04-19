@@ -1,8 +1,6 @@
 from unittest import TestCase
 
-from src.domain.exceptions.custom_type_error import CustomTypeError
-from src.domain.exceptions.type_check_parameter_error import TypeCheckParameterError
-from src.domain.utils import tc
+from src.domain.utils import tc, TypeCheckParameterError, CustomTypeError
 
 
 class UnexpectedExample:

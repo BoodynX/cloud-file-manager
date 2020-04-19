@@ -1,0 +1,2 @@
+class TypeCheckParameterError(Exception):
+    pass

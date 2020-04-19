@@ -1,5 +1,5 @@
-from src.application.interfaces.files_repository_interface import FilesRepositoryInterface
-from src.domain.entities.file import File
+from src.domain.repositories.files_repository_interface import FilesRepositoryInterface
+from src.domain.entities.file.file import File
 
 
 class FileManager:

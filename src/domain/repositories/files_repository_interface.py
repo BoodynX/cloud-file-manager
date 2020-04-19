@@ -1,6 +1,6 @@
 from abc import ABC, abstractmethod
 
-from src.domain.entities.file import File
+from src.domain.entities.file.file import File
 
 
 class FilesRepositoryInterface(ABC):

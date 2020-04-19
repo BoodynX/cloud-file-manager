@@ -19,5 +19,6 @@ class TestFolderName(TestCase):
     def test_not_allowed_character__raise_invalid_folder_name_exception(self):
         self.assertRaises(InvalidFolderName, FolderName, 'example=')
 
-    def test_all_allowed_characters__raise_invalid_folder_name_exception(self):
-        FolderName('1234567890-_ qwertyuiopasdfghjklzxcvbnm')
+    def test_all_allowed_characters__success_create_instance(self):
+        instance = FolderName('1234567890-_ qwertyuiopasdfghjklzxcvbnm')
+        self.assertIsInstance(obj=instance, cls=FolderName)

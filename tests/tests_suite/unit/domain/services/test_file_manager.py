@@ -10,6 +10,6 @@ class TestFileManager(TestCase, EmptyFileSample):
         files_repository_spy = FilesRepositorySpy()
         file_adder = FileManager(repository=files_repository_spy)
 
-        file_adder.add(file=self.FILE)
+        file_adder.add(file=self.SAMPLE_FILE)
 
-        self.assertEqual(files_repository_spy.file, self.FILE)
+        self.assertEqual(files_repository_spy.file, self.SAMPLE_FILE)

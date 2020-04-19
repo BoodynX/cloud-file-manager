@@ -13,7 +13,7 @@ class EmptyFileSample:
     FILE_TYPE = FileType('unknown')
     FILE_SIZE = 0
     ADDED = datetime.fromisoformat('2011-11-04T00:05:23')
-    FILE = File(
+    SAMPLE_FILE = File(
         id_=FILE_ID,
         name=FILE_NAME,
         content=FILE_CONTENT,
